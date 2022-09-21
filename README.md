@@ -20,4 +20,5 @@ Give a ⭐️ if you like this project!
 ## License
 
 Designed by Jonas Schmedtmann
+
 [MIT](LICENSE)
