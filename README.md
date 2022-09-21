@@ -2,7 +2,7 @@
 
 A hotel booking website built with Sass.
 
-[View Live Site](https://natours-benz.netlify.app/)
+[View Live Site](https://trillo-benz.netlify.app/)
 
 ## Preview
 
